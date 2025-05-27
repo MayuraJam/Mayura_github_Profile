@@ -1,6 +1,6 @@
 # Hi I'm Mayura
 
-Information technologt student from Kasetsart university. <br>
+Information technologt new graduate  from Kasetsart university Thailand . <br>
 
 
 

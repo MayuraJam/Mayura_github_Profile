@@ -21,4 +21,4 @@ Information technologt new graduate  from Kasetsart university Thailand . <br>
 ---
 [![](https://visitcount.itsvg.in/api?id=MayuraJam&icon=4&color=0)](https://visitcount.itsvg.in)
 
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=MayuraJam)
